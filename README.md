@@ -25,11 +25,11 @@ This is a beginner-friendly **Hangman word guessing game** developed in Python a
 
 ## 📂 Project Structure
 - Hangman_Project/
-│
-├── main.py # Main file (GUI + game control)
-├── game_logic.py # Game logic and rules
-├── words_list.py # Words and hints dictionary
-├── images/ # Hangman images
+-│
+-├── main.py # Main file (GUI + game control)
+-├── game_logic.py # Game logic and rules
+-├── words_list.py # Words and hints dictionary
+-├── images/ # Hangman images
 
 ---
 
